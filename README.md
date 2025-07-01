@@ -14,8 +14,6 @@ A full-stack online auction platform that allows users to list items, place real
 - 🧑‍💼 Admin dashboard for user and listing management
 - 📱 Responsive UI
 
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend:
@@ -29,7 +27,6 @@ A full-stack online auction platform that allows users to list items, place real
 - Socket.IO server
 - JWT for authentication
 
---
 ## 📁 Folder Structure
 
 auction-platform/
@@ -43,7 +40,6 @@ auction-platform/
 │   ├── src/
 │   └── index.html / App.js
 
---
 ## 🔐 Environment Variables
 PORT=5000
 MONGO_URI=your_mongo_connection_string
