@@ -29,7 +29,28 @@ A full-stack online auction platform that allows users to list items, place real
 - Socket.IO server
 - JWT for authentication
 
----
+--
+📁 Folder Structure
+
+auction-platform/
+├── backend/
+│   ├── models/
+│   ├── routes/
+│   ├── controllers/
+│   └── app.js
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   └── index.html / App.js
+
+--
+🔐 Environment Variables
+PORT=5000
+MONGO_URI=your_mongo_connection_string
+JWT_SECRET=your_jwt_secret
+RAZORPAY_KEY_ID=your_key
+RAZORPAY_KEY_SECRET=your_secret
+
 
 ## 📦 Installation
 
