@@ -30,7 +30,7 @@ A full-stack online auction platform that allows users to list items, place real
 - JWT for authentication
 
 --
-📁 Folder Structure
+## 📁 Folder Structure
 
 auction-platform/
 ├── backend/
@@ -44,7 +44,7 @@ auction-platform/
 │   └── index.html / App.js
 
 --
-🔐 Environment Variables
+## 🔐 Environment Variables
 PORT=5000
 MONGO_URI=your_mongo_connection_string
 JWT_SECRET=your_jwt_secret
